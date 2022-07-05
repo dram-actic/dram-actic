@@ -4,8 +4,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full-Stack web Developer
 ------------------------
 
-A junior undergrad. student with lots of curiosity, trying to make best and an experimental lover! and want to be best in my field
-
 * 🌍  I'm based in Delhi, India
 * ✉️  You can contact me at [deepakkumar24m@gmail.com](mailto:deepakkumar24m@gmail.com)
 * 🧠  I'm learning Data Science
